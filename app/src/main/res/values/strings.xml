@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Crazy Sound</string>
+    <string name="action_about">About us</string>
+    <string name="btn_laugh">Laugh sound</string>
+    <string name="btn_applause">Applause sound</string>
+    <string name="btn_boo">Boo sound</string>
+    <string name="btn_joke">Joke sound</string>
+    <string name="btn_money">Money sound</string>
+    <string name="btn_wrong">Error sound</string>
+
+    <!-- About Activity -->
+    <string name="about_us">KevSnaider is project from a Multiplatform Apps Development student\n\nAuthor: KevSnaider\nDeveloper: KevSnaider v1.0.0</string>
+    <string name="icons_font">Icons designed by <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></string>
+    <string name="laugh_font">\"Laugh\" sound effect obtained from <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
+    <string name="applause_font">\"Applause\" sound effect obtained from <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
+    <string name="boo_font">\"Boo\" sound effect obtained from <a href="http://soundbible.com/" title="SoundBible">SoundBible</a></string>
+    <string name="joke_font">\"Joke\" sound effect obtained from <a href="http://www.orangefreesounds.com" title="OrangeFreeSounds">OrangeFreeSounds</a></string>
+    <string name="money_font">\"Money\" sound effect obtained from <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
+    <string name="wrong_font">\"Error\" sound effect obtained from <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
+</resources>

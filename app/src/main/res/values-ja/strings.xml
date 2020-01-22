@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_about">私たちに関しては</string>
+    <string name="btn_laugh">笑い声</string>
+    <string name="btn_applause">拍手音</string>
+    <string name="btn_boo">ブー音</string>
+    <string name="btn_joke">冗談の音</string>
+    <string name="btn_money">お金の音</string>
+    <string name="btn_wrong">エラー音</string>
+
+    <!-- About Activity -->
+    <string name="about_us">KevSnaiderは、マルチプラットフォームアプリ開発の学生によるプロジェクトです\n\n作成者: KevSnaider\n開発者: KevSnaider\nv1.0.0</string>
+    <string name="icons_font"><a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>の<a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a>によってデザインされたアイコン</string>
+    <string name="laugh_font"><a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a>から得られる「笑い」効果音</string>
+    <string name="applause_font"><a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a>から取得した「拍手」効果音</string>
+    <string name="boo_font"><a href="http://soundbible.com/" title="SoundBible">SoundBible</a>から取得した「ブー」効果音</string>
+    <string name="joke_font"><a href="http://www.orangefreesounds.com" title="OrangeFreeSounds">OrangeFreeSounds</a>から取得した「ジョーク」効果音</string>
+    <string name="money_font"><a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a>から取得した「お金」の効果音</string>
+    <string name="wrong_font"><a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a>から取得した「エラー」サウンドエフェクト</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_about">关于我们</string>
+    <string name="btn_laugh">笑声</string>
+    <string name="btn_applause">掌声响起</string>
+    <string name="btn_boo">嘘声</string>
+    <string name="btn_joke">笑话声</string>
+    <string name="btn_money">钱声</string>
+    <string name="btn_wrong">错误声音</string>
+
+    <!-- About Activity -->
+    <string name="about_us">KevSnaider是多平台应用开发学生的项目\n\n作者: KevSnaider\n开发人员: KevSnaider\nv1.0.0</string>
+    <string name="icons_font"><a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a>从<a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>设计的图标</string>
+    <string name="laugh_font">从<a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a>获得的\"笑声\"音效</string>
+    <string name="applause_font">从<a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a>获得的\"掌声\"音效</string>
+    <string name="boo_font">从<a href="http://soundbible.com/" title="SoundBible">SoundBible</a>获得的\"嘘\"声效果</string>
+    <string name="joke_font">从<a href="http://www.orangefreesounds.com" title="OrangeFreeSounds">OrangeFreeSounds</a>获得的\"笑话\"音效</string>
+    <string name="money_font">从<a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a>获得的\"金钱\"音效</string>
+    <string name="wrong_font">从<a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a>获得的\"错误\"声音效果</string>
+</resources>

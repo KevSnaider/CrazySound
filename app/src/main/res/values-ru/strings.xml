@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_about">О нас</string>
+    <string name="btn_laugh">звук Смех</string>
+    <string name="btn_applause">Звук аплодисментов</string>
+    <string name="btn_boo">звук бу</string>
+    <string name="btn_joke">Шутливый звук</string>
+    <string name="btn_money">Денежный звук</string>
+    <string name="btn_wrong">Звук ошибки</string>
+
+    <!-- About Activity -->
+    <string name="about_us">KevSnaider - проект от студента факультета разработки мультиплатформенных приложений\n\nАвтор: KevSnaider\nРазработчик: KevSnaider\nv1.0.0</string>
+    <string name="icons_font">Иконки, разработанные <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> с сайта <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></string>
+    <string name="laugh_font">Звуковой эффект \"Смех\", полученный с <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
+    <string name="applause_font">Звуковой эффект \"Аплодисменты\", полученный от <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
+    <string name="boo_font">Звуковой эффект \"Бу\", полученный из <a href="http://soundbible.com/" title="SoundBible">SoundBible</a></string>
+    <string name="joke_font">Звуковой эффект \"Шутка\", полученный из <a href="http://www.orangefreesounds.com" title="OrangeFreeSounds">OrangeFreeSounds</a></string>
+    <string name="money_font">Звуковой эффект \"Деньги\", полученный с <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
+    <string name="wrong_font">Звуковой эффект \"Ошибка\", полученный от <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
+</resources>
