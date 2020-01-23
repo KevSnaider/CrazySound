@@ -9,7 +9,7 @@
     <string name="btn_wrong">Sonido de error</string>
 
     <!-- About Activity -->
-    <string name="about_us">KevSnaider es un proyecto de un estudiante de Desarrollo de Aplicaciones Multiplataforma\n\nAutor: KevSnaider\Desarrollador: KevSnaider\nv1.0.0</string>
+    <string name="about_us">KevSnaider es un proyecto de un estudiante de Desarrollo de Aplicaciones Multiplataforma\n\nAutor: KevSnaider\nDesarrollador: KevSnaider\nv1.0.0</string>
     <string name="icons_font">Iconos diseñados por <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> desde <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></string>
     <string name="laugh_font">Efecto de sonido \"Risa\" obtenido de <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
     <string name="applause_font">Efecto de sonido \"Aplausos\" obtenido de <a href="https://www.zapsplat.com" title="ZapSplat">ZapSplat</a></string>
